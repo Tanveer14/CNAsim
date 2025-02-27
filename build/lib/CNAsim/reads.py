@@ -11,8 +11,8 @@ from Bio import SeqIO
 import numpy as np
 from scipy.stats import beta, poisson
 from scipy.optimize import newton_krylov
-# from scipy.optimize.nonlin import NoConvergence # This was in the code
-from scipy.optimize import NoConvergence #Modified by Naeem
+from scipy.optimize import NoConvergence
+
 from .sequence import *
 
 def iter_by_chunk(iterable, chunksize):

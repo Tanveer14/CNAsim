@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+CNAsim/__init__.py
+CNAsim/format_profiles.py
+CNAsim/main.py
+CNAsim/noise.py
+CNAsim/reads.py
+CNAsim/sequence.py
+CNAsim/sim_genomes.py
+CNAsim/tree.py
+CNAsim/utilities.py
+CNAsim.egg-info/PKG-INFO
+CNAsim.egg-info/SOURCES.txt
+CNAsim.egg-info/dependency_links.txt
+CNAsim.egg-info/entry_points.txt
+CNAsim.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cnasim = CNAsim.main:main
